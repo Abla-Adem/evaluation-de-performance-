@@ -16,5 +16,8 @@ pour les arguments veuillez suivre les instructions:
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sinon elle evoluera entre(le chfire generer aleatoire et c avec une probalibite ph d'etre en a et h)  
    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;-s:la taille des opration en octet  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-s_min:la borne inferieur de la taille s  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-s_max:la borne superieur  si (s>0) alors le temps varie avec un pas s
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-s_max:la borne superieur  si (s>0) alors le temps varie avec un pas s  
+    pour la derniere question:
+    
+             ./run 10000 0 1 1 0.3 10 5 0 838860800 0.2 1073741182 0 4094 1084576
     
