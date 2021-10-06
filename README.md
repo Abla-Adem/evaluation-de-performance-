@@ -4,7 +4,7 @@ TP1:
 
              make           
             ./run estampile t0 t_min t_max p nw nr a h ph c s s_min s_max  
-pour les argument veuillez suivre les instruction  
+pour les arguments veuillez suivre les instructions:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    -estampile:nombre de requete  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    -t0:le temps de depart  
 &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  -t_min:la borne inferieur du temps  
