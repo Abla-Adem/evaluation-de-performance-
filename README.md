@@ -1,9 +1,10 @@
 # evaluation-de-performance-
 les tps du module Evaluations de performance 
 TP1:  
-./run estampile t0 t_min t_max p nw nr a h ph c s s_min s_max  
+
+            ./run estampile t0 t_min t_max p nw nr a h ph c s s_min s_max  
 pour les argument veuillez suivre les instruction  
-    -estampile:nombre de requete  
+&nbsp;&nbsp;    -estampile:nombre de requete  
     -t0:le temps de depart  
     -t_min:la borne inferieur du temps  
     -t_max:la borne superieur du temps si (t_min==t_max) alors le temps varie avec un pas de t_min  
