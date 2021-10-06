@@ -102,8 +102,8 @@ int main(int argc, char *argv[]) {
     int t_max=strtol(argv[4], NULL, 10);
     //probabilite de ecriture
     double p= strtod(argv[5], NULL);
-    int nr=strtol(argv[6], NULL, 10);
-    int nw=strtol(argv[7], NULL, 10);
+    int nr=strtol(argv[7], NULL, 10);
+    int nw=strtol(argv[6], NULL, 10);
     //argument d'adresse
     int adresse=strtol(argv[8], NULL, 10);
     int h=strtol(argv[9], NULL, 10);
@@ -163,6 +163,8 @@ int main(int argc, char *argv[]) {
     }
     else
     {
+        //adresse=(rand()/(RAND_MAX+1.))*INT_MAX-(c+s+s_max);
+        adresse=0;
         adres=2;
     }
     struct sh benshmarck;
